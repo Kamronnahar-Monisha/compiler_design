@@ -13,7 +13,7 @@ int main()
        "short","signed","sizeof","_ss","static","struct","switch","template","this",
        "typedef","union","unsigned","virtual","void","volatile","while"};
 
-   printf("\nEnter $ for exit or Enter any word to recognize keyword: ");
+   printf("\nEnter $ for exit now or Enter any word to recognize keyword: ");
    gets(num);
 
    if(num[0]=='$')
